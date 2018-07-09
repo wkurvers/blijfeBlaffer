@@ -1,16 +1,17 @@
 .Tron {
 
-    /*width: 1000px;*/
-    /*height: 450px;*/
+    /*width: 100%;*/
+    /*height: 700px;*/
     /*border-style: solid;*/
     margin: auto;
     /*padding: 20px;*/
     margin-top: -50px;
+    overflow: hidden;
 }
 
 #nameText {
     position: absolute;
-    top: 23%;
+    top: 19%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -20,7 +21,7 @@
 
 #subText {
     position: absolute;
-    top: 35%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -40,7 +41,7 @@
     z-index: 1;
     margin-top: 50px;
     width: 100%;
-    height: 615px;
+    height: 620px;
     background-color: #2d2d2a80;
     opacity: 0.5;
 

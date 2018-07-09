@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import './WelkomTron.css';
-import kinky from './dogs.jpg'
+import kinky from './index.jpg'
 
 
 

@@ -5,5 +5,11 @@
     background-color: tomato;
     height: 60px;
     width: 100%;
-    margin-top: 40px;
+    margin-top: 60px;
+}
+
+#informatie {
+    margin: auto;
+    top: 50%;
+    color: white;
 }

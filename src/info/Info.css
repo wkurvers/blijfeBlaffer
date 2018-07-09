@@ -1,10 +1,6 @@
-img {
-
-
-}
-
 .info {
-
+    display: inline-block;
+    width: 100%;
 }
 
 #martha {
@@ -13,6 +9,60 @@ img {
     max-width: 150px;
     display: table-caption;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 40px;
+    margin-right: 11vw
 
+}
+
+#martha2 {
+    border-radius: 50%;
+    max-height: 150px;
+    max-width: 150px;
+    display: table-caption;
+    float: left;
+    margin-top: 40px;
+    margin-right: 11vw
+
+}
+
+#martha3 {
+    border-radius: 50%;
+    max-height: 150px;
+    max-width: 150px;
+    display: table-caption;
+    float: right;
+    margin-top: 40px;
+
+}
+
+#overMij {
+    display: inline-block;
+    width: 100%;
+    height: 250px;
+    background-color: #9e9999;
+}
+
+#photos {
+    display: inline-flex;
+}
+
+#paginaText{
+    color: white;
+    font-size: 60px;
+    margin-top: 5%;
+ }
+
+#mijnText {
+    margin-top: 40px;
+    margin-right: 60px;
+}
+
+#teamText {
+    margin-top: 50px;
+
+}
+
+#functies{
+    display: inline-flex;
+    margin-top: 5px;
 }

@@ -10,6 +10,7 @@
     background: #dadada;
     float: left;
     border-radius: 10%;
+    box-shadow: 10px 10px 5px grey;
 }
 
 #pointTwo {
@@ -18,7 +19,7 @@
     background-color: #dadada;
     margin: auto;
     border-radius: 10%;
-
+    box-shadow: 10px 10px 5px grey;
 }
 
 #pointThree {
@@ -27,4 +28,16 @@
     background-color: #dadada;
     float: right;
     border-radius: 10%;
+    box-shadow: 10px 10px 5px grey;
+}
+
+#icons {
+    margin-top: 15px;
+    max-height: 50px;
+    max-width: 50px;
+}
+
+#titel {
+    font-weight: bold;
+    font-size: 20px;
 }
