@@ -1,0 +1,47 @@
+.Tron {
+
+    /*width: 1000px;*/
+    /*height: 450px;*/
+    /*border-style: solid;*/
+    margin: auto;
+    /*padding: 20px;*/
+    margin-top: -50px;
+}
+
+#nameText {
+    position: absolute;
+    top: 23%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 90px;
+    z-index: 2;
+}
+
+#subText {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    z-index: 2;
+    /*font-size: 90px;*/
+}
+
+#kinky {
+    position: relative;
+   height: 100%;
+    width: 100%;
+   z-index: -1;
+}
+
+#overlay {
+    position: absolute;
+    z-index: 1;
+    margin-top: 50px;
+    width: 100%;
+    height: 615px;
+    background-color: #2d2d2a80;
+    opacity: 0.5;
+
+}

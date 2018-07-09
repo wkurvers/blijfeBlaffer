@@ -1,0 +1,18 @@
+img {
+
+
+}
+
+.info {
+
+}
+
+#martha {
+    border-radius: 50%;
+    max-height: 150px;
+    max-width: 150px;
+    display: table-caption;
+    margin: auto;
+    margin-top: 20px;
+
+}

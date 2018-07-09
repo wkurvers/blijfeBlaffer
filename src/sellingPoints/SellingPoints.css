@@ -1,0 +1,30 @@
+.sellingPoints {
+    display: inline-flex;
+    width: 75%;
+    padding: 30px;
+}
+
+#pointOne {
+    width: 200px;
+    height: 250px;
+    background: #dadada;
+    float: left;
+    border-radius: 10%;
+}
+
+#pointTwo {
+    width: 200px;
+    height: 250px;
+    background-color: #dadada;
+    margin: auto;
+    border-radius: 10%;
+
+}
+
+#pointThree {
+    width: 200px;
+    height: 250px;
+    background-color: #dadada;
+    float: right;
+    border-radius: 10%;
+}
