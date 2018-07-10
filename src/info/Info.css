@@ -7,9 +7,7 @@
     border-radius: 50%;
     max-height: 150px;
     max-width: 150px;
-    display: table-caption;
     margin: auto;
-    margin-top: 40px;
     margin-right: 11vw
 
 }
@@ -18,9 +16,7 @@
     border-radius: 50%;
     max-height: 150px;
     max-width: 150px;
-    display: table-caption;
     float: left;
-    margin-top: 40px;
     margin-right: 11vw
 
 }
@@ -29,9 +25,8 @@
     border-radius: 50%;
     max-height: 150px;
     max-width: 150px;
-    display: table-caption;
     float: right;
-    margin-top: 40px;
+
 
 }
 
@@ -39,11 +34,13 @@
     display: inline-block;
     width: 100%;
     height: 250px;
-    background-color: #9e9999;
+    background-image: url("dog7.jpg");
+    /*background-color: #9e9999;*/
 }
 
 #photos {
     display: inline-flex;
+
 }
 
 #paginaText{
@@ -55,14 +52,44 @@
 #mijnText {
     margin-top: 40px;
     margin-right: 60px;
+    margin-bottom: 15vh;
 }
 
 #teamText {
-    margin-top: 50px;
+    margin-top: 40px;
 
 }
 
 #functies{
     display: inline-flex;
     margin-top: 5px;
+}
+
+#teamlid {
+    display: grid;
+}
+
+#name {
+    text-align: start;
+    margin-left: 12px;
+    margin-bottom: -20px;
+    margin-top: initial;
+    font-size: 18px;
+}
+
+#position {
+    text-align: start;
+    margin-left: 42px;
+    color: cornflowerblue;
+    font-size: 13px;
+}
+
+#holder {
+    width: 100%;
+    height: 30%;
+    background-color: #f2f2f2;
+}
+
+pre {
+    font-family: Ubuntu;
 }

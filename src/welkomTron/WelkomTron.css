@@ -11,7 +11,7 @@
 
 #nameText {
     position: absolute;
-    top: 19%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -21,12 +21,12 @@
 
 #subText {
     position: absolute;
-    top: 30%;
+    top: 36%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
     z-index: 2;
-    /*font-size: 90px;*/
+    font-size: 27px;
 }
 
 #kinky {
